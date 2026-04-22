@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fresh Monkee — Area Rep Statement</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --green:       #2E7D32;
+    --green-mid:   #388E3C;
+    --green-light: #E8F5E9;
+    --green-pale:  #F1F8F1;
+    --ink:         #1A1A1A;
+    --ink-mid:     #4A4A4A;
+    --ink-light:   #888;
+    --rule:        #E0E0E0;
+    --bg:          #FAFAF8;
+    --white:       #FFFFFF;
+    --amber:       #E65100;
+    --amber-bg:    #FFF3E0;
+    --mono:        'DM Mono', monospace;
+    --sans:        'DM Sans', sans-serif;
+    --radius:      8px;
+    --shadow:      0 1px 3px rgba(0,0,0,0.08), 0 4px 16px rgba(0,0,0,0.06);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── Loading / error states */
+  #loading, #error {
+    display: flex; align-items: center; justify-content: center;
+    min-height: 100vh; flex-direction: column; gap: 12px;
+    font-size: 15px; color: var(--ink-light);
+  }
+  #error { color: var(--amber); }
+  .spinner {
+    width: 32px; height: 32px; border: 2px solid var(--rule);
+    border-top-color: var(--green); border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── App shell */
+  #app { display: none; max-width: 900px; margin: 0 auto; padding: 24px 20px 80px; }
+
+  /* ── Header */
+  .header {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    padding-bottom: 24px; border-bottom: 1px solid var(--rule);
+    margin-bottom: 32px; gap: 20px; flex-wrap: wrap;
+  }
+  .logo-mark {
+    display: flex; align-items: center; gap: 10px;
+  }
+  .logo-icon {
+    width: 36px; height: 36px; background: var(--green);
+    border-radius: 8px; display: flex; align-items: center;
+    justify-content: center; font-size: 18px; flex-shrink: 0;
+  }
+  .logo-text { font-size: 13px; font-weight: 500; color: var(--ink-light); letter-spacing: 0.08em; text-transform: uppercase; }
+  .header-right { text-align: right; }
+  .ar-name { font-size: 22px; font-weight: 600; color: var(--ink); line-height: 1.2; }
+  .header-meta { font-size: 12px; color: var(--ink-light); margin-top: 4px; font-family: var(--mono); }
+
+  /* ── Summary cards */
+  .cards {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px; margin-bottom: 40px;
+  }
+  .card {
+    background: var(--white); border: 1px solid var(--rule);
+    border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow);
+  }
+  .card.highlight { background: var(--green); border-color: var(--green); }
+  .card-label { font-size: 11px; font-weight: 500; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--ink-light); margin-bottom: 8px; }
+  .card.highlight .card-label { color: rgba(255,255,255,0.7); }
+  .card-value { font-size: 26px; font-weight: 600; color: var(--ink); font-family: var(--mono); }
+  .card.highlight .card-value { color: var(--white); }
+  .card-sub { font-size: 11px; color: var(--ink-light); margin-top: 4px; }
+  .card.highlight .card-sub { color: rgba(255,255,255,0.6); }
+
+  /* ── Section heading */
+  .section-title {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--ink-light);
+    margin-bottom: 16px; display: flex; align-items: center; gap: 8px;
+  }
+  .section-title::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+
+  /* ── Month blocks */
+  .month-block { margin-bottom: 32px; }
+  .month-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 16px; background: var(--white);
+    border: 1px solid var(--rule); border-radius: var(--radius) var(--radius) 0 0;
+    cursor: pointer; user-select: none;
+  }
+  .month-header:hover { background: var(--green-pale); }
+  .month-name { font-size: 14px; font-weight: 600; color: var(--ink); }
+  .month-badges { display: flex; gap: 8px; align-items: center; }
+  .badge {
+    font-size: 11px; font-family: var(--mono); padding: 3px 8px;
+    border-radius: 100px; background: var(--green-light);
+    color: var(--green); font-weight: 500;
+  }
+  .badge.no-data { background: var(--bg); color: var(--ink-light); }
+  .badge.payout-info { background: var(--amber-bg); color: var(--amber); }
+  .chevron {
+    font-size: 12px; color: var(--ink-light); transition: transform 0.2s;
+    margin-left: 8px;
+  }
+  .month-block.open .chevron { transform: rotate(180deg); }
+
+  .month-body {
+    display: none; border: 1px solid var(--rule); border-top: none;
+    border-radius: 0 0 var(--radius) var(--radius); overflow: hidden;
+  }
+  .month-block.open .month-body { display: block; }
+
+  /* ── Location table */
+  .loc-table { width: 100%; border-collapse: collapse; }
+  .loc-table th {
+    font-size: 10px; font-weight: 600; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--ink-light);
+    padding: 8px 14px; text-align: right; background: var(--bg);
+    border-bottom: 1px solid var(--rule);
+  }
+  .loc-table th:first-child { text-align: left; }
+  .loc-table td {
+    padding: 11px 14px; font-size: 13px; color: var(--ink);
+    border-bottom: 1px solid var(--rule); text-align: right;
+    font-family: var(--mono);
+  }
+  .loc-table td:first-child { text-align: left; font-family: var(--sans); font-size: 13px; }
+  .loc-table tr:last-child td { border-bottom: none; }
+  .loc-table tr.no-sales td { color: var(--ink-light); }
+  .loc-table tr.no-sales td:first-child { color: var(--ink-light); }
+  .loc-table .rate-cell { color: var(--ink-light); font-size: 11px; }
+  .loc-table .payout-cell { color: var(--green); font-weight: 500; }
+  .loc-table tr.no-sales .payout-cell { color: var(--ink-light); }
+
+  /* Month totals row */
+  .month-totals {
+    display: flex; justify-content: flex-end; gap: 32px;
+    padding: 12px 16px; background: var(--green-light);
+    border-top: 1px solid var(--rule);
+  }
+  .tot-item { text-align: right; }
+  .tot-label { font-size: 10px; font-weight: 600; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--green); }
+  .tot-value { font-size: 15px; font-weight: 600; font-family: var(--mono);
+    color: var(--green); }
+
+  /* ── Payout note */
+  .payout-note {
+    font-size: 12px; color: var(--ink-light); padding: 10px 16px;
+    background: var(--bg); border-top: 1px solid var(--rule);
+    display: flex; align-items: center; gap: 6px;
+  }
+
+  /* ── Footer */
+  footer {
+    margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-size: 11px; color: var(--ink-light); display: flex;
+    justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;
+  }
+
+  /* ── Responsive */
+  @media (max-width: 600px) {
+    .cards { grid-template-columns: 1fr 1fr; }
+    .loc-table th:nth-child(2),
+    .loc-table td:nth-child(2) { display: none; }
+    .month-badges .badge.payout-info { display: none; }
+    .ar-name { font-size: 18px; }
+    .card-value { font-size: 22px; }
+    .header { flex-direction: column; }
+    .header-right { text-align: left; }
+  }
+</style>
+</head>
+<body>
+
+<div id="loading"><div class="spinner"></div><span>Loading your statement…</span></div>
+<div id="error" style="display:none">
+  <span style="font-size:24px">⚠️</span>
+  <span id="error-msg">Statement not found. Check your link and try again.</span>
+</div>
+
+<div id="app">
+  <div class="header">
+    <div class="logo-mark">
+      <div class="logo-icon">🐒</div>
+      <div>
+        <div style="font-size:15px;font-weight:600;color:var(--green)">fresh monkee</div>
+        <div class="logo-text">Area Rep Statement</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="ar-name" id="ar-name">—</div>
+      <div class="header-meta" id="header-meta">—</div>
+    </div>
+  </div>
+
+  <div class="cards">
+    <div class="card highlight">
+      <div class="card-label">Latest Month Payout</div>
+      <div class="card-value" id="card-latest">$—</div>
+      <div class="card-sub" id="card-latest-mo">—</div>
+    </div>
+    <div class="card">
+      <div class="card-label">YTD Total</div>
+      <div class="card-value" id="card-ytd">$—</div>
+      <div class="card-sub">2026 year to date</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Active Locations</div>
+      <div class="card-value" id="card-locs">—</div>
+      <div class="card-sub" id="card-locs-sub">—</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Payout Schedule</div>
+      <div class="card-value" style="font-size:16px;padding-top:4px">Monthly</div>
+      <div class="card-sub">Paid following month</div>
+    </div>
+  </div>
+
+  <div class="section-title">Monthly History</div>
+  <div id="months-container"></div>
+
+  <footer>
+    <span>Fresh Monkee Franchise System</span>
+    <span id="footer-updated">—</span>
+  </footer>
+</div>
+
+<script>
+const DATA_URL = './royalties.json';
+
+const fmt = n => n === 0 ? '—' : '$' + n.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+const fmtSales = n => n === 0 ? '—' : '$' + n.toLocaleString('en-US', {maximumFractionDigits:0});
+const fmtPct = n => (n * 100).toFixed(1) + '%';
+
+function getToken() {
+  const p = new URLSearchParams(window.location.search);
+  return p.get('token') || p.get('t');
+}
+
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + '?_=' + Date.now());
+    if (!res.ok) throw new Error('fetch failed');
+    return await res.json();
+  } catch(e) {
+    throw new Error('Could not load statement data. Please try again later.');
+  }
+}
+
+function buildMonthBlock(moName, moData, isLatest) {
+  const block = document.createElement('div');
+  block.className = 'month-block' + (isLatest && moData.has_data ? ' open' : '');
+
+  const hasData = moData.has_data;
+  const badgeClass = hasData ? '' : ' no-data';
+  const payoutBadge = hasData
+    ? `<span class="badge payout-info">Paid: ${moData.payout_month}</span>` : '';
+
+  block.innerHTML = `
+    <div class="month-header">
+      <span class="month-name">${moName} 2026</span>
+      <div class="month-badges">
+        ${hasData ? `<span class="badge">${fmt(moData.total_payout)}</span>` : ''}
+        ${payoutBadge}
+        <span class="badge${badgeClass}">${hasData ? fmtSales(moData.total_sales) + ' net sales' : 'No data yet'}</span>
+        <span class="chevron">▾</span>
+      </div>
+    </div>
+    <div class="month-body">
+      <table class="loc-table">
+        <thead>
+          <tr>
+            <th>Location</th>
+            <th>Roy Rate</th>
+            <th>Net Sales</th>
+            <th>Royalty</th>
+            <th>Your Rate</th>
+            <th>Your Payout</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${moData.locations.map(loc => `
+            <tr class="${loc.sales === 0 ? 'no-sales' : ''}">
+              <td>${loc.location}</td>
+              <td class="rate-cell">${fmtPct(loc.roy_rate)}</td>
+              <td>${fmtSales(loc.sales)}</td>
+              <td>${fmt(loc.royalty)}</td>
+              <td class="rate-cell">${loc.ar_rate > 0 ? fmtPct(loc.ar_rate) : '—'}</td>
+              <td class="payout-cell">${fmt(loc.payout)}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      ${hasData ? `
+        <div class="month-totals">
+          <div class="tot-item">
+            <div class="tot-label">Net Sales</div>
+            <div class="tot-value">${fmtSales(moData.total_sales)}</div>
+          </div>
+          <div class="tot-item">
+            <div class="tot-label">Royalties Collected</div>
+            <div class="tot-value">${fmt(moData.total_royalty)}</div>
+          </div>
+          <div class="tot-item">
+            <div class="tot-label">Your Payout</div>
+            <div class="tot-value">${fmt(moData.total_payout)}</div>
+          </div>
+        </div>
+        <div class="payout-note">
+          📅 This payout is included in your <strong>${moData.payout_month}</strong> payment
+        </div>
+      ` : ''}
+    </div>
+  `;
+
+  // Toggle
+  block.querySelector('.month-header').addEventListener('click', () => {
+    block.classList.toggle('open');
+  });
+
+  return block;
+}
+
+async function init() {
+  const token = getToken();
+  if (!token) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error').style.display = 'flex';
+    document.getElementById('error-msg').textContent = 'No statement token found. Check your link.';
+    return;
+  }
+
+  let data;
+  try {
+    data = await loadData();
+  } catch(e) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error').style.display = 'flex';
+    document.getElementById('error-msg').textContent = e.message;
+    return;
+  }
+
+  const arHandle = data.token_map[token];
+  if (!arHandle) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('error').style.display = 'flex';
+    document.getElementById('error-msg').textContent = 'Invalid or expired statement link.';
+    return;
+  }
+
+  const ar = data.ars[arHandle];
+  const months = ['January','February','March','April','May','June',
+                  'July','August','September','October','November','December'];
+
+  // Find latest month with data
+  let latestMo = null;
+  let latestPayout = 0;
+  for (let i = months.length - 1; i >= 0; i--) {
+    if (ar.months[months[i]] && ar.months[months[i]].has_data) {
+      latestMo = months[i];
+      latestPayout = ar.months[months[i]].total_payout;
+      break;
+    }
+  }
+
+  // Active locations = those with any sales data
+  const activeLocs = ar.locations.filter(loc =>
+    months.some(m => ar.months[m] && ar.months[m].locations.find(l => l.location === loc && l.sales > 0))
+  );
+
+  // Populate header
+  document.getElementById('ar-name').textContent = ar.name;
+  document.getElementById('header-meta').textContent =
+    `${arHandle} · Statement updated ${ar.last_updated}`;
+
+  // Cards
+  document.getElementById('card-latest').textContent = fmt(latestPayout);
+  document.getElementById('card-latest-mo').textContent = latestMo ? latestMo + ' 2026' : 'No data yet';
+  document.getElementById('card-ytd').textContent = fmt(ar.ytd_payout);
+  document.getElementById('card-locs').textContent = ar.locations.length;
+  document.getElementById('card-locs-sub').textContent =
+    activeLocs.length + ' with sales this year';
+  document.getElementById('footer-updated').textContent =
+    'Last updated: ' + ar.last_updated;
+
+  // Month blocks — reverse order (newest first)
+  const container = document.getElementById('months-container');
+  const reversedMonths = [...months].reverse();
+  reversedMonths.forEach((mo, i) => {
+    const moData = ar.months[mo];
+    if (moData) {
+      const isLatest = mo === latestMo;
+      container.appendChild(buildMonthBlock(mo, moData, isLatest));
+    }
+  });
+
+  // Show app
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+}
+
+init();
+</script>
+</body>
+</html>
