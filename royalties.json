@@ -333,7 +333,7 @@
       "name": "Dave Eaton",
       "token": "JT3YkYCdKgMpi6I3",
       "locations": ["Ballantyne (dave)", "Charlotte (winnifred-basden)", "Waxhaw (dave)"],
-      "ytd_payout": 6578.24,
+      "ytd_payout": 6278.24,
       "last_updated": "June 2026",
       "months": {
         "January": {
@@ -469,19 +469,19 @@
           ]
         },
         "May": {
-          "total_sales": 71051.21,
-          "total_royalty": 3664.68,
-          "total_payout": 1832.35,
+          "total_sales": 61051.21,
+          "total_royalty": 3064.68,
+          "total_payout": 1532.35,
           "payout_month": "June 2026",
           "has_data": true,
           "locations": [
             {
               "location": "Ballantyne (dave)",
-              "sales": 34360,
+              "sales": 24360,
               "roy_rate": 0.06,
-              "royalty": 2061.61,
+              "royalty": 1461.61,
               "ar_rate": 0.03,
-              "payout": 1030.81
+              "payout": 730.81
             },
             {
               "location": "Charlotte (winnifred-basden)",
