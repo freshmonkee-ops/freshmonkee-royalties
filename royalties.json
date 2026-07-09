@@ -37,17 +37,17 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 4719,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 141.56,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 70.78
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 4331,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 259.87,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 129.93
             }
           ]
@@ -62,17 +62,17 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 6135,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 184.06,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 92.03
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 4447,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 266.85,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 133.42
             }
           ]
@@ -87,17 +87,17 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 7885,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 236.55,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 118.28
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 7842,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 470.50,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 235.25
             }
           ]
@@ -112,17 +112,17 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 7732,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 231.97,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 115.98
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 7102,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 426.09,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 213.05
             }
           ]
@@ -137,17 +137,17 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 7518,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 225.54,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 112.77
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 7230,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 433.79,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 216.89
             }
           ]
@@ -162,25 +162,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 8587,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 257.61,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 128.80
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 6070,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 364.21,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 182.11
             },
             {
               "location": "Keller",
               "sales": 20277,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 608.30,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 304.15
             }
           ]
@@ -195,25 +195,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -228,25 +228,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -261,25 +261,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -294,25 +294,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -327,25 +327,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -360,25 +360,25 @@
             {
               "location": "Arlington (Clarence)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Richardson (omer/anam)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Keller",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -403,25 +403,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 17625,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1057.47,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 528.74
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 7670,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 460.21,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 230.10
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 9552,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 286.57,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 143.29
             }
           ]
@@ -436,25 +436,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 17441,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1046.49,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 523.24
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 8144,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 488.61,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 244.31
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 14590,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 437.71,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 218.86
             }
           ]
@@ -469,25 +469,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 22624,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1357.43,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 678.71
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 14898,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 893.85,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 446.93
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 19609,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 588.27,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 294.14
             }
           ]
@@ -502,25 +502,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 21675,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1300.50,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 650.25
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 16978,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1018.68,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 509.34
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 18532,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 555.97,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 277.98
             }
           ]
@@ -535,25 +535,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 24360,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1461.61,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 730.81
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 16745,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1004.69,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 502.35
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 19946,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 598.38,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 299.19
             }
           ]
@@ -568,25 +568,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 26345,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1580.72,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 790.36
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 20635,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1238.11,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 619.06
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 19184,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 575.53,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 287.76
             }
           ]
@@ -601,25 +601,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -634,25 +634,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -667,25 +667,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -700,25 +700,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -733,25 +733,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -766,25 +766,25 @@
             {
               "location": "Ballantyne (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Charlotte (winnifred-basden)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Waxhaw (dave)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -809,17 +809,17 @@
             {
               "location": "Braintree (rick)",
               "sales": 18695,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1121.67,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 560.84
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 13937,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 836.23,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 418.11
             }
           ]
@@ -834,25 +834,25 @@
             {
               "location": "Braintree (rick)",
               "sales": 17370,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1042.23,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 521.11
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 13420,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 805.18,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 402.59
             },
             {
               "location": "Taunton (rick)",
               "sales": 1160,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 34.79,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 17.40
             }
           ]
@@ -867,25 +867,25 @@
             {
               "location": "Braintree (rick)",
               "sales": 23809,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1428.55,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 714.28
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 17178,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1030.66,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 515.33
             },
             {
               "location": "Taunton (rick)",
               "sales": 21438,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 643.13,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 321.56
             }
           ]
@@ -900,25 +900,25 @@
             {
               "location": "Braintree (rick)",
               "sales": 26842,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1610.49,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 805.25
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 22910,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1374.60,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 687.30
             },
             {
               "location": "Taunton (rick)",
               "sales": 25987,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 779.61,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 389.81
             }
           ]
@@ -933,25 +933,25 @@
             {
               "location": "Braintree (rick)",
               "sales": 28176,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1690.59,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 845.29
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 23545,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1412.71,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 706.35
             },
             {
               "location": "Taunton (rick)",
               "sales": 28298,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 848.94,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 424.47
             }
           ]
@@ -966,33 +966,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 26748,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1604.87,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 802.43
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 23202,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1392.13,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 696.06
             },
             {
               "location": "Taunton (rick)",
               "sales": 25712,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 771.36,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 385.68
             },
             {
               "location": "Brockton",
               "sales": 10367,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 311.01,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 155.50
             }
           ]
@@ -1007,33 +1007,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -1048,33 +1048,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -1089,33 +1089,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -1130,33 +1130,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -1171,33 +1171,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -1212,33 +1212,33 @@
             {
               "location": "Braintree (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middleborough MA (meet)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Taunton (rick)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Brockton",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1263,9 +1263,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 27658,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1659.46,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 829.73
             }
           ]
@@ -1280,9 +1280,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 26239,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1574.31,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 787.16
             }
           ]
@@ -1297,9 +1297,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 32362,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1941.72,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 970.86
             }
           ]
@@ -1314,9 +1314,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 29593,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1775.59,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 887.79
             }
           ]
@@ -1331,9 +1331,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 33431,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2005.85,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1002.92
             }
           ]
@@ -1348,9 +1348,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 36946,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2216.77,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1108.38
             }
           ]
@@ -1365,9 +1365,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1382,9 +1382,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1399,9 +1399,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1416,9 +1416,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1433,9 +1433,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1450,9 +1450,9 @@
             {
               "location": "Carlsbad (craig)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1477,49 +1477,49 @@
             {
               "location": "Colchester CT",
               "sales": 20021,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1201.27,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 600.63
             },
             {
               "location": "Guilford (Deb)",
               "sales": 9776,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 586.56,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 293.28
             },
             {
               "location": "Mansfield",
               "sales": 21965,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1317.89,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 658.95
             },
             {
               "location": "Middletown",
               "sales": 27476,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1648.54,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 824.27
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 2586,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 77.59,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 38.79
             },
             {
               "location": "Vernon",
               "sales": 31988,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1919.30,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 959.65
             }
           ]
@@ -1534,49 +1534,49 @@
             {
               "location": "Colchester CT",
               "sales": 18819,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1129.14,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 564.57
             },
             {
               "location": "Guilford (Deb)",
               "sales": 9354,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 561.26,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 280.63
             },
             {
               "location": "Mansfield",
               "sales": 23282,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1396.92,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 698.46
             },
             {
               "location": "Middletown",
               "sales": 28114,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1686.81,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 843.40
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 3407,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 102.22,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 51.11
             },
             {
               "location": "Vernon",
               "sales": 32782,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1966.93,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 983.46
             }
           ]
@@ -1591,49 +1591,49 @@
             {
               "location": "Colchester CT",
               "sales": 24281,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1456.87,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 728.43
             },
             {
               "location": "Guilford (Deb)",
               "sales": 13083,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 784.96,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 392.48
             },
             {
               "location": "Mansfield",
               "sales": 31411,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1884.69,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 942.34
             },
             {
               "location": "Middletown",
               "sales": 38086,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2285.18,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1142.59
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 5813,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 174.40,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 87.20
             },
             {
               "location": "Vernon",
               "sales": 45986,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2759.13,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1379.57
             }
           ]
@@ -1648,49 +1648,49 @@
             {
               "location": "Colchester CT",
               "sales": 26003,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1560.18,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 780.09
             },
             {
               "location": "Guilford (Deb)",
               "sales": 13612,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 816.73,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 408.37
             },
             {
               "location": "Mansfield",
               "sales": 34652,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2079.12,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1039.56
             },
             {
               "location": "Middletown",
               "sales": 39456,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2367.35,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1183.67
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 6185,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 185.54,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 92.77
             },
             {
               "location": "Vernon",
               "sales": 45113,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2706.77,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1353.38
             }
           ]
@@ -1705,49 +1705,49 @@
             {
               "location": "Colchester CT",
               "sales": 30293,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1817.61,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 908.80
             },
             {
               "location": "Guilford (Deb)",
               "sales": 16786,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1007.14,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 503.57
             },
             {
               "location": "Mansfield",
               "sales": 29093,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1745.56,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 872.78
             },
             {
               "location": "Middletown",
               "sales": 40485,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2429.10,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1214.55
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 8685,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 260.56,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 130.28
             },
             {
               "location": "Vernon",
               "sales": 46462,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2787.69,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1393.85
             }
           ]
@@ -1762,49 +1762,49 @@
             {
               "location": "Colchester CT",
               "sales": 32086,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1925.15,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 962.58
             },
             {
               "location": "Guilford (Deb)",
               "sales": 16876,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1012.58,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 506.29
             },
             {
               "location": "Mansfield",
               "sales": 31493,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1889.57,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 944.79
             },
             {
               "location": "Middletown",
               "sales": 41938,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2516.31,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1258.15
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 9862,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 295.85,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 147.93
             },
             {
               "location": "Vernon",
               "sales": 50827,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 3049.65,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1524.82
             }
           ]
@@ -1819,49 +1819,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1876,49 +1876,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1933,49 +1933,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -1990,49 +1990,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2047,49 +2047,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2104,49 +2104,49 @@
             {
               "location": "Colchester CT",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Guilford (Deb)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Mansfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Middletown",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Norwalk-Rodney/Billy",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Vernon",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2171,17 +2171,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 6009,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 180.27,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 90.14
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 8083,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 485.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 242.50
             }
           ]
@@ -2196,17 +2196,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 6924,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 207.73,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 103.87
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 9410,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 564.58,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 282.29
             }
           ]
@@ -2221,17 +2221,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 10876,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 326.29,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 163.15
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 14622,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 877.32,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 438.66
             }
           ]
@@ -2246,17 +2246,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 10536,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 632.18,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 316.09
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 14192,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 851.52,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 425.76
             }
           ]
@@ -2271,17 +2271,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 10550,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 633.03,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 316.51
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 12059,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 723.53,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 361.77
             }
           ]
@@ -2296,17 +2296,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 8711,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 522.68,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 261.34
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 12797,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 767.83,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 383.92
             }
           ]
@@ -2321,17 +2321,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2346,17 +2346,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2371,17 +2371,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2396,17 +2396,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2421,17 +2421,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2446,17 +2446,17 @@
             {
               "location": "Johns Creek (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sandy Springs (anand)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2481,17 +2481,17 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 38319,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 1149.57,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 574.79
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 14766,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 442.99,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 221.49
             }
           ]
@@ -2506,17 +2506,17 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 38580,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 1157.41,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 578.71
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 17270,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 518.09,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 259.05
             }
           ]
@@ -2531,17 +2531,17 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 43040,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 1291.21,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 645.60
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 19077,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 572.31,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 286.16
             }
           ]
@@ -2556,25 +2556,25 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 43073,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 1292.20,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 646.10
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 18858,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1131.51,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 565.75
             },
             {
               "location": "Estero (Wasko)",
               "sales": 10800,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 323.99,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 162.00
             }
           ]
@@ -2589,25 +2589,25 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 45972,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 1379.17,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 689.58
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 20048,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1202.90,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 601.45
             },
             {
               "location": "Estero (Wasko)",
               "sales": 22122,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 663.65,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 331.83
             }
           ]
@@ -2622,33 +2622,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 44228,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2653.68,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1326.84
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 19180,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1150.83,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 575.41
             },
             {
               "location": "Estero (Wasko)",
               "sales": 19628,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 588.85,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 294.43
             },
             {
               "location": "Sarasota",
               "sales": 16033,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 480.98,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 240.49
             }
           ]
@@ -2663,33 +2663,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -2704,33 +2704,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -2745,33 +2745,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -2786,33 +2786,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -2827,33 +2827,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -2868,33 +2868,33 @@
             {
               "location": "Palm Harbor-Burgin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Estero (Wasko)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Sarasota",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -2919,9 +2919,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 15662,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 939.73,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 469.87
             }
           ]
@@ -2936,9 +2936,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 16529,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 991.72,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 495.86
             }
           ]
@@ -2953,9 +2953,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 18605,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1116.29,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 558.15
             }
           ]
@@ -2970,9 +2970,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 19724,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1183.43,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 591.71
             }
           ]
@@ -2987,9 +2987,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 21550,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1293.02,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 646.51
             }
           ]
@@ -3004,9 +3004,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 22015,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1320.87,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 660.44
             }
           ]
@@ -3021,9 +3021,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3038,9 +3038,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3055,9 +3055,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3072,9 +3072,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3089,9 +3089,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3106,9 +3106,9 @@
             {
               "location": "Ponte Vedra",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3133,9 +3133,9 @@
             {
               "location": "Royersford-Kevin",
               "sales": 15049,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 451.47,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 225.74
             }
           ]
@@ -3150,9 +3150,9 @@
             {
               "location": "Royersford-Kevin",
               "sales": 13249,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 397.47,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 198.73
             }
           ]
@@ -3167,25 +3167,25 @@
             {
               "location": "Royersford-Kevin",
               "sales": 20041,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 601.24,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 300.62
             },
             {
               "location": "Collegeville",
               "sales": 7521,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 225.64,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 112.82
             },
             {
               "location": "North Coventry",
               "sales": 4127,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 123.80,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 61.90
             }
           ]
@@ -3200,25 +3200,25 @@
             {
               "location": "Collegeville",
               "sales": 18274,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 548.22,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 274.11
             },
             {
               "location": "North Coventry",
               "sales": 19529,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 585.88,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 292.94
             },
             {
               "location": "Royersford-Kevin",
               "sales": 24539,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 736.18,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 368.09
             }
           ]
@@ -3233,25 +3233,25 @@
             {
               "location": "Collegeville",
               "sales": 18146,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 544.38,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 272.19
             },
             {
               "location": "North Coventry",
               "sales": 22193,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 665.79,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 332.89
             },
             {
               "location": "Royersford-Kevin",
               "sales": 24208,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 726.23,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 363.11
             }
           ]
@@ -3266,25 +3266,25 @@
             {
               "location": "Collegeville",
               "sales": 19018,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 570.53,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 285.26
             },
             {
               "location": "North Coventry",
               "sales": 21987,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 659.61,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 329.80
             },
             {
               "location": "Royersford-Kevin",
               "sales": 24309,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 729.26,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 364.63
             }
           ]
@@ -3299,25 +3299,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3332,25 +3332,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3365,25 +3365,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3398,25 +3398,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3431,25 +3431,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3464,25 +3464,25 @@
             {
               "location": "Collegeville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "North Coventry",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Royersford-Kevin",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3507,17 +3507,17 @@
             {
               "location": "Smithfield",
               "sales": 13328,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 799.69,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 399.85
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 21073,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1264.38,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 632.19
             }
           ]
@@ -3532,17 +3532,17 @@
             {
               "location": "Smithfield",
               "sales": 13838,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 830.29,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 415.14
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 20272,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1216.34,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 608.17
             }
           ]
@@ -3557,17 +3557,17 @@
             {
               "location": "Smithfield",
               "sales": 18768,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1126.08,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 563.04
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 30250,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1814.98,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 907.49
             }
           ]
@@ -3582,17 +3582,17 @@
             {
               "location": "Smithfield",
               "sales": 18718,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1123.07,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 561.54
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 39975,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2398.52,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1199.26
             }
           ]
@@ -3607,17 +3607,17 @@
             {
               "location": "Smithfield",
               "sales": 18048,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1082.85,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 541.43
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 37477,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2248.64,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1124.32
             }
           ]
@@ -3632,17 +3632,17 @@
             {
               "location": "Smithfield",
               "sales": 19833,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1189.96,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 594.98
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 43295,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2597.67,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1298.84
             }
           ]
@@ -3657,17 +3657,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3682,17 +3682,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3707,17 +3707,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3732,17 +3732,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3757,17 +3757,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3782,17 +3782,17 @@
             {
               "location": "Smithfield",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Wakefield (simmons)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -3817,25 +3817,25 @@
             {
               "location": "Springfield-Santa",
               "sales": 9833,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 294.99,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 147.50
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 20277,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1216.63,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 608.31
             },
             {
               "location": "Worcester",
               "sales": 24509,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1470.55,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 735.28
             }
           ]
@@ -3850,25 +3850,25 @@
             {
               "location": "Springfield-Santa",
               "sales": 11117,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 333.50,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 166.75
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 19279,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1156.77,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 578.38
             },
             {
               "location": "Worcester",
               "sales": 25666,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1539.97,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 769.99
             }
           ]
@@ -3883,25 +3883,25 @@
             {
               "location": "Springfield-Santa",
               "sales": 15442,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 463.27,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 231.64
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 27221,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1633.24,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 816.62
             },
             {
               "location": "Worcester",
               "sales": 36602,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2196.11,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1098.06
             }
           ]
@@ -3916,25 +3916,25 @@
             {
               "location": "Springfield-Santa",
               "sales": 17808,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 534.23,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 267.12
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 29214,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 1752.81,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 876.41
             },
             {
               "location": "Worcester",
               "sales": 37721,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2263.24,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1131.62
             }
           ]
@@ -3949,25 +3949,25 @@
             {
               "location": "Springfield-Santa",
               "sales": 22822,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 684.66,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 342.33
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 36615,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2196.89,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1098.44
             },
             {
               "location": "Worcester",
               "sales": 38837,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2330.23,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1165.12
             }
           ]
@@ -3982,33 +3982,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 20155,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 604.66,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 302.33
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 34227,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2053.63,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1026.81
             },
             {
               "location": "Worcester",
               "sales": 41395,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 2483.72,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 1241.86
             },
             {
               "location": "Webster",
               "sales": 92186,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 2765.58,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 1382.79
             }
           ]
@@ -4023,33 +4023,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4064,33 +4064,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4105,33 +4105,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4146,33 +4146,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4187,33 +4187,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4228,33 +4228,33 @@
             {
               "location": "Springfield-Santa",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Westborough (Patrice)",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Worcester",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Webster",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -4279,17 +4279,17 @@
             {
               "location": "Woodlands-Mitch",
               "sales": 4743,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 142.30,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 71.15
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 10568,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 317.04,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 158.52
             }
           ]
@@ -4304,25 +4304,25 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 11099,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 332.97,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 166.48
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 11293,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 338.79,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 169.39
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 5344,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 160.32,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 80.16
             }
           ]
@@ -4337,25 +4337,25 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 20122,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 603.67,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 301.84
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 12858,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 385.73,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 192.87
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 7253,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 217.59,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 108.80
             }
           ]
@@ -4370,25 +4370,25 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 16677,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 500.30,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 250.15
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 11085,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 332.55,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 166.27
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 6878,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 206.35,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 103.17
             }
           ]
@@ -4403,25 +4403,25 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 19110,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 573.30,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 286.65
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 13641,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 409.24,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 204.62
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 6926,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 207.78,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 103.89
             }
           ]
@@ -4436,33 +4436,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 18195,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 545.86,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 272.93
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 11960,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 358.81,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 179.41
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 7659,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 229.78,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 114.89
             },
             {
               "location": "Montgomery",
               "sales": 13002,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 390.06,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 195.03
             }
           ]
@@ -4477,33 +4477,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4518,33 +4518,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4559,33 +4559,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4600,33 +4600,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4641,33 +4641,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4682,33 +4682,33 @@
             {
               "location": "Katy TX-Kailee",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             },
             {
               "location": "Missouri City TX-Amol++",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Woodlands-Mitch",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             },
             {
               "location": "Montgomery",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
@@ -4773,9 +4773,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4790,9 +4790,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4807,9 +4807,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4824,9 +4824,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4841,9 +4841,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4858,9 +4858,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.03,
+              "roy_rate": 0.0300,
               "royalty": 0.00,
-              "ar_rate": 0.01,
+              "ar_rate": 0.0150,
               "payout": 0.00
             }
           ]
@@ -4875,9 +4875,9 @@
             {
               "location": "Greenville",
               "sales": 0,
-              "roy_rate": 0.06,
+              "roy_rate": 0.0600,
               "royalty": 0.00,
-              "ar_rate": 0.03,
+              "ar_rate": 0.0300,
               "payout": 0.00
             }
           ]
