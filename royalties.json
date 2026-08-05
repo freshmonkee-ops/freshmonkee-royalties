@@ -15,7 +15,8 @@
     "Yjz6MmR70F3BqOhf": "ligols",
     "QU2h4zmxvrKtMfZp": "sathimurthy",
     "0I50_qb4Vv9obadY": "wilson",
-    "0aZS1v_JrSPPPUvG": "wong"
+    "0aZS1v_JrSPPPUvG": "wong",
+    "_OGaqOop6dkhhN7U": "beckham"
   },
   "ars": {
     "demarino": {
@@ -4720,6 +4721,175 @@
             },
             {
               "location": "Montgomery",
+              "sales": 0,
+              "roy_rate": 0.06,
+              "royalty": 0.00,
+              "ar_rate": 0.03,
+              "payout": 0.00
+            }
+          ]
+        }
+      }
+    },
+    "beckham": {
+      "handle": "beckham",
+      "name": "Terrel Beckham",
+      "token": "_OGaqOop6dkhhN7U",
+      "locations": ["Greenville"],
+      "ytd_payout": 99.95,
+      "last_updated": "July 2026",
+      "months": {
+        "January": {
+          "total_sales": 0,
+          "total_royalty": 0,
+          "total_payout": 0,
+          "payout_month": "February 2026",
+          "has_data": false,
+          "locations": []
+        },
+        "February": {
+          "total_sales": 0,
+          "total_royalty": 0,
+          "total_payout": 0,
+          "payout_month": "March 2026",
+          "has_data": false,
+          "locations": []
+        },
+        "March": {
+          "total_sales": 0,
+          "total_royalty": 0,
+          "total_payout": 0,
+          "payout_month": "April 2026",
+          "has_data": false,
+          "locations": []
+        },
+        "April": {
+          "total_sales": 0,
+          "total_royalty": 0,
+          "total_payout": 0,
+          "payout_month": "May 2026",
+          "has_data": false,
+          "locations": []
+        },
+        "May": {
+          "total_sales": 0,
+          "total_royalty": 0,
+          "total_payout": 0,
+          "payout_month": "June 2026",
+          "has_data": false,
+          "locations": []
+        },
+        "June": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "July 2026",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0.00,
+              "ar_rate": 0.02,
+              "payout": 0.00
+            }
+          ]
+        },
+        "July": {
+          "total_sales": 6663.29,
+          "total_royalty": 199.90,
+          "total_payout": 99.95,
+          "payout_month": "August 2026",
+          "has_data": true,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 6663,
+              "roy_rate": 0.03,
+              "royalty": 199.90,
+              "ar_rate": 0.02,
+              "payout": 99.95
+            }
+          ]
+        },
+        "August": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "September 2026",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0.00,
+              "ar_rate": 0.02,
+              "payout": 0.00
+            }
+          ]
+        },
+        "September": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "October 2026",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0.00,
+              "ar_rate": 0.02,
+              "payout": 0.00
+            }
+          ]
+        },
+        "October": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "November 2026",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0.00,
+              "ar_rate": 0.02,
+              "payout": 0.00
+            }
+          ]
+        },
+        "November": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "December 2026",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0.00,
+              "ar_rate": 0.02,
+              "payout": 0.00
+            }
+          ]
+        },
+        "December": {
+          "total_sales": 0.00,
+          "total_royalty": 0.00,
+          "total_payout": 0.00,
+          "payout_month": "January 2027",
+          "has_data": false,
+          "locations": [
+            {
+              "location": "Greenville",
               "sales": 0,
               "roy_rate": 0.06,
               "royalty": 0.00,
