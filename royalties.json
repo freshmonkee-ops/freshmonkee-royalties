@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "October 2026",
+    "last_updated": "November 2026",
     "system": "Fresh Monkee Franchise Royalties"
   },
   "token_map": {
@@ -29,8 +29,8 @@
         "Richardson (omer/anam)",
         "Keller"
       ],
-      "ytd_payout": 4028.44,
-      "last_updated": "October 2026",
+      "ytd_payout": 4567.9,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 9049.77,
@@ -290,35 +290,35 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 23214.0,
+          "total_royalty": 1078.92,
+          "total_payout": 539.46,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Arlington (Clarence)",
-              "sales": 0,
+              "sales": 7276,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 436.56,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 218.28
             },
             {
               "location": "Richardson (omer/anam)",
-              "sales": 0,
+              "sales": 5474,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 328.44,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 164.22
             },
             {
               "location": "Keller",
-              "sales": 0,
+              "sales": 10464,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 313.92,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 156.96
             }
           ]
         },
@@ -399,8 +399,8 @@
         "Charlotte (winnifred-basden)",
         "Waxhaw (dave)"
       ],
-      "ytd_payout": 13318.1,
-      "last_updated": "October 2026",
+      "ytd_payout": 14869.01,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 34847.11,
@@ -700,35 +700,35 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 51697.0,
+          "total_royalty": 3101.82,
+          "total_payout": 1550.91,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Ballantyne (dave)",
-              "sales": 0,
+              "sales": 20151,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1209.06,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 604.53
             },
             {
               "location": "Charlotte (winnifred-basden)",
-              "sales": 0,
+              "sales": 16643,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 998.58,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 499.29
             },
             {
               "location": "Waxhaw (dave)",
-              "sales": 0,
+              "sales": 14903,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 894.18,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 447.09
             }
           ]
         },
@@ -810,8 +810,8 @@
         "Taunton (rick)",
         "Brockton"
       ],
-      "ytd_payout": 15132.03,
-      "last_updated": "October 2026",
+      "ytd_payout": 17090.27,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 32631.67,
@@ -1135,43 +1135,43 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 70495.0,
+          "total_royalty": 3916.47,
+          "total_payout": 1958.24,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Braintree (rick)",
-              "sales": 0,
+              "sales": 21883,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1312.98,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 656.49
             },
             {
               "location": "Middleborough MA (meet)",
-              "sales": 0,
+              "sales": 18023,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1081.38,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 540.69
             },
             {
               "location": "Taunton (rick)",
-              "sales": 0,
+              "sales": 20148,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1208.88,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 604.44
             },
             {
               "location": "Brockton",
-              "sales": 0,
+              "sales": 10441,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 313.23,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 156.62
             }
           ]
         },
@@ -1266,8 +1266,8 @@
       "locations": [
         "Carlsbad (craig)"
       ],
-      "ytd_payout": 8809.64,
-      "last_updated": "October 2026",
+      "ytd_payout": 9649.43,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 27657.65,
@@ -1423,19 +1423,19 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 27993.0,
+          "total_royalty": 1679.58,
+          "total_payout": 839.79,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Carlsbad (craig)",
-              "sales": 0,
+              "sales": 27993,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1679.58,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 839.79
             }
           ]
         },
@@ -1487,8 +1487,8 @@
         "Norwalk-Rodney/Billy",
         "Vernon"
       ],
-      "ytd_payout": 41475.36,
-      "last_updated": "October 2026",
+      "ytd_payout": 45770.33,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 113812.3,
@@ -2004,59 +2004,59 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 143165.52,
+          "total_royalty": 8589.93,
+          "total_payout": 4294.97,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Colchester CT",
-              "sales": 0,
+              "sales": 22345,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1340.7,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 670.35
             },
             {
               "location": "Guilford (Deb)",
-              "sales": 0,
+              "sales": 12189,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 731.34,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 365.67
             },
             {
               "location": "Mansfield",
-              "sales": 0,
+              "sales": 30388,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1823.28,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 911.64
             },
             {
               "location": "Middletown",
-              "sales": 0,
+              "sales": 33523,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 2011.38,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 1005.69
             },
             {
               "location": "Norwalk-Rodney/Billy",
-              "sales": 0,
+              "sales": 6687,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 401.22,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 200.61
             },
             {
               "location": "Vernon",
-              "sales": 0,
+              "sales": 38034,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 2282.01,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 1141.01
             }
           ]
         },
@@ -2184,8 +2184,8 @@
         "Johns Creek (anand)",
         "Sandy Springs (anand)"
       ],
-      "ytd_payout": 5407.54,
-      "last_updated": "October 2026",
+      "ytd_payout": 6015.76,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 14092.37,
@@ -2413,27 +2413,27 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 20274.0,
+          "total_royalty": 1216.44,
+          "total_payout": 608.22,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Johns Creek (anand)",
-              "sales": 0,
+              "sales": 9148,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 548.88,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 274.44
             },
             {
               "location": "Sandy Springs (anand)",
-              "sales": 0,
+              "sales": 11126,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 667.56,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 333.78
             }
           ]
         },
@@ -2498,10 +2498,11 @@
         "Wesley Chapel (Mahi/Phani)",
         "Estero (Wasko)",
         "Sarasota",
+        "Sarasota FL-Adair",
         "Lakeland"
       ],
-      "ytd_payout": 15823.4,
-      "last_updated": "October 2026",
+      "ytd_payout": 18554.32,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 53085.43,
@@ -2833,51 +2834,51 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 104171.0,
+          "total_royalty": 5461.83,
+          "total_payout": 2730.92,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Palm Harbor-Burgin",
-              "sales": 0,
+              "sales": 45607,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 2736.42,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 1368.21
             },
             {
               "location": "Wesley Chapel (Mahi/Phani)",
-              "sales": 0,
+              "sales": 15048,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 902.88,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 451.44
             },
             {
               "location": "Estero (Wasko)",
-              "sales": 0,
+              "sales": 17235,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1034.1,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 517.05
             },
             {
               "location": "Sarasota",
-              "sales": 0,
+              "sales": 12476,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 374.28,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 187.14
             },
             {
               "location": "Lakeland",
-              "sales": 0,
+              "sales": 13805,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 414.15,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 207.08
             }
           ]
         },
@@ -2914,6 +2915,14 @@
             },
             {
               "location": "Sarasota",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0,
+              "ar_rate": 0.015,
+              "payout": 0
+            },
+            {
+              "location": "Sarasota FL-Adair",
               "sales": 0,
               "roy_rate": 0.03,
               "royalty": 0,
@@ -2970,6 +2979,14 @@
               "payout": 0
             },
             {
+              "location": "Sarasota FL-Adair",
+              "sales": 0,
+              "roy_rate": 0.03,
+              "royalty": 0,
+              "ar_rate": 0.015,
+              "payout": 0
+            },
+            {
               "location": "Lakeland",
               "sales": 0,
               "roy_rate": 0.06,
@@ -2988,8 +3005,8 @@
       "locations": [
         "Ponte Vedra"
       ],
-      "ytd_payout": 4998.94,
-      "last_updated": "October 2026",
+      "ytd_payout": 5375.29,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 15662.2,
@@ -3145,19 +3162,19 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 12545.0,
+          "total_royalty": 752.7,
+          "total_payout": 376.35,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Ponte Vedra",
-              "sales": 0,
+              "sales": 12545,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 752.7,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 376.35
             }
           ]
         },
@@ -3206,8 +3223,8 @@
         "North Coventry",
         "Royersford-Kevin"
       ],
-      "ytd_payout": 7416.98,
-      "last_updated": "October 2026",
+      "ytd_payout": 8415.48,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 15049.03,
@@ -3475,35 +3492,35 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 48816.0,
+          "total_royalty": 1996.98,
+          "total_payout": 998.5,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Collegeville",
-              "sales": 0,
+              "sales": 14883,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 446.49,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 223.25
             },
             {
               "location": "North Coventry",
-              "sales": 0,
+              "sales": 16183,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 485.49,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 242.75
             },
             {
               "location": "Royersford-Kevin",
-              "sales": 0,
+              "sales": 17750,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1065,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 532.5
             }
           ]
         },
@@ -3583,8 +3600,8 @@
         "Smithfield",
         "Wakefield (simmons)"
       ],
-      "ytd_payout": 14013.48,
-      "last_updated": "October 2026",
+      "ytd_payout": 15390.18,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 34401.2,
@@ -3812,27 +3829,27 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 45890.0,
+          "total_royalty": 2753.4,
+          "total_payout": 1376.7,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Smithfield",
-              "sales": 0,
+              "sales": 13626,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 817.56,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 408.78
             },
             {
               "location": "Wakefield (simmons)",
-              "sales": 0,
+              "sales": 32264,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1935.84,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 967.92
             }
           ]
         },
@@ -3899,8 +3916,8 @@
         "Webster",
         "Southborough"
       ],
-      "ytd_payout": 23907.81,
-      "last_updated": "October 2026",
+      "ytd_payout": 26561.46,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 54619.31,
@@ -4256,51 +4273,51 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 113220.0,
+          "total_royalty": 5307.3,
+          "total_payout": 2653.65,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Springfield-Santa",
-              "sales": 0,
+              "sales": 13577,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 814.62,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 407.31
             },
             {
               "location": "Westborough (Patrice)",
-              "sales": 0,
+              "sales": 19521,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1171.26,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 585.63
             },
             {
               "location": "Worcester",
-              "sales": 0,
+              "sales": 30592,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 1835.52,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 917.76
             },
             {
               "location": "Webster",
-              "sales": 0,
+              "sales": 37406,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 1122.18,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 561.09
             },
             {
               "location": "Southborough",
-              "sales": 0,
+              "sales": 12124,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 363.72,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 181.86
             }
           ]
         },
@@ -4414,8 +4431,8 @@
         "Woodlands-Mitch",
         "Montgomery"
       ],
-      "ytd_payout": 7862.78,
-      "last_updated": "October 2026",
+      "ytd_payout": 9085.32,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 15311.32,
@@ -4739,43 +4756,43 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 57385.0,
+          "total_royalty": 2445.06,
+          "total_payout": 1222.54,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Katy TX-Kailee",
-              "sales": 0,
+              "sales": 17975,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 539.25,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 269.63
             },
             {
               "location": "Missouri City TX-Amol++",
-              "sales": 0,
+              "sales": 11078,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 664.68,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 332.34
             },
             {
               "location": "Woodlands-Mitch",
-              "sales": 0,
+              "sales": 13039,
               "roy_rate": 0.06,
-              "royalty": 0,
+              "royalty": 782.34,
               "ar_rate": 0.03,
-              "payout": 0
+              "payout": 391.17
             },
             {
               "location": "Montgomery",
-              "sales": 0,
+              "sales": 15293,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 458.79,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 229.4
             }
           ]
         },
@@ -4870,8 +4887,8 @@
       "locations": [
         "Greenville"
       ],
-      "ytd_payout": 295.85,
-      "last_updated": "October 2026",
+      "ytd_payout": 410.53,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 0.0,
@@ -4982,19 +4999,19 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 7645.0,
+          "total_royalty": 229.35,
+          "total_payout": 114.68,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Greenville",
-              "sales": 0,
+              "sales": 7645,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 229.35,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 114.68
             }
           ]
         },
@@ -5041,8 +5058,8 @@
       "locations": [
         "Austin TX-Pablo"
       ],
-      "ytd_payout": 143.61,
-      "last_updated": "October 2026",
+      "ytd_payout": 301.59,
+      "last_updated": "November 2026",
       "months": {
         "January": {
           "total_sales": 0.0,
@@ -5126,19 +5143,19 @@
           ]
         },
         "October": {
-          "total_sales": 0.0,
-          "total_royalty": 0.0,
-          "total_payout": 0.0,
+          "total_sales": 10532.0,
+          "total_royalty": 315.96,
+          "total_payout": 157.98,
           "payout_month": "November 2026",
-          "has_data": false,
+          "has_data": true,
           "locations": [
             {
               "location": "Austin TX-Pablo",
-              "sales": 0,
+              "sales": 10532,
               "roy_rate": 0.03,
-              "royalty": 0,
+              "royalty": 315.96,
               "ar_rate": 0.015,
-              "payout": 0
+              "payout": 157.98
             }
           ]
         },
